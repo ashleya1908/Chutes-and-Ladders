@@ -1,6 +1,6 @@
-// Ashley Allan, 2228 CS 2010 Section 1004, MOWeFri 11:30am-12:20pm
+// Ashley Allan
 
-//Program 6: Chutes and Ladders, File:AllanA_Pgm6, Due:11/14/2022
+//Program 6: Chutes and Ladders, File:AllanA_Pgm6
 
 /*
 Purpose: Plays a random game of chutes and ladders 
